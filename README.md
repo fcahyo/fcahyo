@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Fabiansyah 👋
 
+- 🤔 I’m a data science enthusiast
+- 👀 Interested in Artificial Intelligence, Math, Machine Learning, Data, and Programming
+- 🌱 Always love to learn something new
+- 📫 Reach me at:
+  - [Linkedin](https://www.linkedin.com/in/fabiansyahcahyo/) 
+  - fabiansyahcahyo@gmail.com
 <!--
 **fcahyo/fcahyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
